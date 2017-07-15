@@ -1,0 +1,5 @@
+hdfs://master:54310/user/hduser/input  hdfs://master:54310/user/hduser/outputResearch/  hdfs://master:54310/user/hduser/outputResearchFinal/
+
+/user/hduser/input /user/hduser/outputResearch /user/hduser/outputResearchFinal
+
+-Xmx3000M -Xms3000M

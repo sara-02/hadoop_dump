@@ -1,0 +1,6 @@
+#localhost
+#master
+slave
+slave2
+slave3
+slave4

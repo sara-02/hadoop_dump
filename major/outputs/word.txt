@@ -1,0 +1,1031 @@
+16/04/01 09:56:26 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003000_0
+16/04/01 09:56:26 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@76c529bf
+16/04/01 09:56:26 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Nathaniel-Hawthorne___Old-Ticonderoga--A-Picture-of-The-Past.txt:0+11487
+16/04/01 09:56:26 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:26 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:26 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:26 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:26 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:26 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:26 INFO mapred.Task: Task:attempt_local864601423_0001_m_003000_0 is done. And is in the process of commiting
+16/04/01 09:56:26 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Nathaniel-Hawthorne___Old-Ticonderoga--A-Picture-of-The-Past.txt:0+11487
+16/04/01 09:56:26 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003000_0' done.
+16/04/01 09:56:26 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003000_0
+16/04/01 09:56:26 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003001_0
+16/04/01 09:56:26 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@23996afa
+16/04/01 09:56:26 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/O-Henry___The-Gift-of-the-Magi.txt:0+11459
+16/04/01 09:56:26 INFO mapred.JobClient:  map 99% reduce 0%
+16/04/01 09:56:26 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:26 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:26 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:26 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:26 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:26 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:26 INFO mapred.Task: Task:attempt_local864601423_0001_m_003001_0 is done. And is in the process of commiting
+16/04/01 09:56:26 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/O-Henry___The-Gift-of-the-Magi.txt:0+11459
+16/04/01 09:56:26 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003001_0' done.
+16/04/01 09:56:26 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003001_0
+16/04/01 09:56:26 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003002_0
+16/04/01 09:56:26 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@3ee9e7c6
+16/04/01 09:56:26 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/G-K-Chesterton___Greybeards-at-Play.txt:0+11026
+16/04/01 09:56:26 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:26 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003002_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/G-K-Chesterton___Greybeards-at-Play.txt:0+11026
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003002_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003002_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003003_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@155e1bdb
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Robert-Burns___Tam-OShanter.txt:0+10912
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003003_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Robert-Burns___Tam-OShanter.txt:0+10912
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003003_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003003_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003004_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@74f9843d
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/William-Blake___Illustrations-of-The-Book-of-Job.txt:0+10827
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003004_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/William-Blake___Illustrations-of-The-Book-of-Job.txt:0+10827
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003004_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003004_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003005_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@6e921f8f
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Nathaniel-Hawthorne___The-Vision-of-the-Fountain-(From--Twice-Told-Tales-).txt:0+10786
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003005_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Nathaniel-Hawthorne___The-Vision-of-the-Fountain-(From--Twice-Told-Tales-).txt:0+10786
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003005_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003005_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003006_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@56589d8f
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Nathaniel-Hawthorne___The-Haunted-Mind-(From--Twice-Told-Tales-).txt:0+10514
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003006_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Nathaniel-Hawthorne___The-Haunted-Mind-(From--Twice-Told-Tales-).txt:0+10514
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003006_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003006_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003007_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@1f49924
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Bret-Harte___Dickens-in-Camp.txt:0+9951
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003007_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Bret-Harte___Dickens-in-Camp.txt:0+9951
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003007_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003007_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003008_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@7bfd8842
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/WConSC16template.txt:0+9386
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003008_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/WConSC16template.txt:0+9386
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003008_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003008_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003009_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@4cbdc13b
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Mrs.-Tittlemouse.txt:0+9049
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003009_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Mrs.-Tittlemouse.txt:0+9049
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003009_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003009_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003010_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@16602892
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Timmy-Tiptoes.txt:0+8490
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003010_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Timmy-Tiptoes.txt:0+8490
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003010_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003010_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003011_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@5d948dfb
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Mrs.-Tiggy-Winkle.txt:0+8018
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003011_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Mrs.-Tiggy-Winkle.txt:0+8018
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003011_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003011_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003012_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@3cdc2fea
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Jemima-Puddle-Duck.txt:0+7910
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003012_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Jemima-Puddle-Duck.txt:0+7910
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003012_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003012_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003013_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@5dd7bba9
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Squirrel-Nutkin.txt:0+7859
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003013_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Squirrel-Nutkin.txt:0+7859
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003013_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003013_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003014_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@450e046d
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Ginger-and-Pickles.txt:0+7479
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003014_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Ginger-and-Pickles.txt:0+7479
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003014_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003014_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003015_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@5d57e875
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Johnny-Town-Mouse.txt:0+7478
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003015_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Johnny-Town-Mouse.txt:0+7478
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003015_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003015_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003016_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@2e1fb0ac
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Rudyard-Kipling___An-Almanac-of-Twelve-Sports.txt:0+7387
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:27 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:27 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:27 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:27 INFO mapred.Task: Task:attempt_local864601423_0001_m_003016_0 is done. And is in the process of commiting
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Rudyard-Kipling___An-Almanac-of-Twelve-Sports.txt:0+7387
+16/04/01 09:56:27 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003016_0' done.
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003016_0
+16/04/01 09:56:27 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003017_0
+16/04/01 09:56:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@f445bc2
+16/04/01 09:56:27 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Edgar-Allan-Poe___The-Raven.txt:0+7305
+16/04/01 09:56:27 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:27 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:28 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:28 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:28 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:28 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:28 INFO mapred.Task: Task:attempt_local864601423_0001_m_003017_0 is done. And is in the process of commiting
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Edgar-Allan-Poe___The-Raven.txt:0+7305
+16/04/01 09:56:28 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003017_0' done.
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003017_0
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003018_0
+16/04/01 09:56:28 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@79fddcbb
+16/04/01 09:56:28 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-Of-Benjamin-Bunny.txt:0+7288
+16/04/01 09:56:28 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:28 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:28 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:28 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:28 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:28 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:28 INFO mapred.Task: Task:attempt_local864601423_0001_m_003018_0 is done. And is in the process of commiting
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-Of-Benjamin-Bunny.txt:0+7288
+16/04/01 09:56:28 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003018_0' done.
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003018_0
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003019_0
+16/04/01 09:56:28 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@31e4439
+16/04/01 09:56:28 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Nathaniel-Hawthorne___Brownes-Folly.txt:0+7069
+16/04/01 09:56:28 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:28 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:28 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:28 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:28 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:28 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:28 INFO mapred.Task: Task:attempt_local864601423_0001_m_003019_0 is done. And is in the process of commiting
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Nathaniel-Hawthorne___Brownes-Folly.txt:0+7069
+16/04/01 09:56:28 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003019_0' done.
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003019_0
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003020_0
+16/04/01 09:56:28 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@2aa68728
+16/04/01 09:56:28 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-the-Flopsy-Bunnies.txt:0+6714
+16/04/01 09:56:28 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:28 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:28 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:28 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:28 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:28 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:28 INFO mapred.Task: Task:attempt_local864601423_0001_m_003020_0 is done. And is in the process of commiting
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-the-Flopsy-Bunnies.txt:0+6714
+16/04/01 09:56:28 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003020_0' done.
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003020_0
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003021_0
+16/04/01 09:56:28 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@54f82d12
+16/04/01 09:56:28 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Philip-Kindred-Dick___The-Eyes-Have-It.txt:0+6663
+16/04/01 09:56:28 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:28 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:28 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:28 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:28 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:28 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:28 INFO mapred.Task: Task:attempt_local864601423_0001_m_003021_0 is done. And is in the process of commiting
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Philip-Kindred-Dick___The-Eyes-Have-It.txt:0+6663
+16/04/01 09:56:28 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003021_0' done.
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003021_0
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003022_0
+16/04/01 09:56:28 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@79d85587
+16/04/01 09:56:28 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-Of-Peter-Rabbit.txt:0+6295
+16/04/01 09:56:28 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:28 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:28 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:28 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:28 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:28 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:28 INFO mapred.Task: Task:attempt_local864601423_0001_m_003022_0 is done. And is in the process of commiting
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-Of-Peter-Rabbit.txt:0+6295
+16/04/01 09:56:28 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003022_0' done.
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003022_0
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003023_0
+16/04/01 09:56:28 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@1d407615
+16/04/01 09:56:28 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Lord-Tennyson___Lady-Clare.txt:0+5214
+16/04/01 09:56:28 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:28 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:28 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:28 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:28 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:28 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:28 INFO mapred.Task: Task:attempt_local864601423_0001_m_003023_0 is done. And is in the process of commiting
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Lord-Tennyson___Lady-Clare.txt:0+5214
+16/04/01 09:56:28 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003023_0' done.
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003023_0
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003024_0
+16/04/01 09:56:28 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@7885c552
+16/04/01 09:56:28 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Tom-Kitten.txt:0+4880
+16/04/01 09:56:28 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:28 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:28 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:28 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:28 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:28 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:28 INFO mapred.Task: Task:attempt_local864601423_0001_m_003024_0 is done. And is in the process of commiting
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Tom-Kitten.txt:0+4880
+16/04/01 09:56:28 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003024_0' done.
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003024_0
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003025_0
+16/04/01 09:56:28 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@19d06e32
+16/04/01 09:56:28 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Mr.-Jeremy-Fisher.txt:0+4648
+16/04/01 09:56:28 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:28 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:28 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:28 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:28 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:28 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:28 INFO mapred.Task: Task:attempt_local864601423_0001_m_003025_0 is done. And is in the process of commiting
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Tale-of-Mr.-Jeremy-Fisher.txt:0+4648
+16/04/01 09:56:28 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003025_0' done.
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003025_0
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003026_0
+16/04/01 09:56:28 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@1610b948
+16/04/01 09:56:28 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Elizabeth-Barrett-Browning___He-Giveth-His-Beloved-Sleep.txt:0+4210
+16/04/01 09:56:28 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:28 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:28 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:28 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:28 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:28 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:28 INFO mapred.Task: Task:attempt_local864601423_0001_m_003026_0 is done. And is in the process of commiting
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Elizabeth-Barrett-Browning___He-Giveth-His-Beloved-Sleep.txt:0+4210
+16/04/01 09:56:28 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003026_0' done.
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003026_0
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003027_0
+16/04/01 09:56:28 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@3efb2a0
+16/04/01 09:56:28 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___Cecily-Parsleys-Nursery-Rhymes.txt:0+3763
+16/04/01 09:56:28 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:28 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:28 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:28 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:28 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:28 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:28 INFO mapred.Task: Task:attempt_local864601423_0001_m_003027_0 is done. And is in the process of commiting
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___Cecily-Parsleys-Nursery-Rhymes.txt:0+3763
+16/04/01 09:56:28 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003027_0' done.
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003027_0
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003028_0
+16/04/01 09:56:28 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@5b397994
+16/04/01 09:56:28 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Bret-Harte___Excelsior.txt:0+2729
+16/04/01 09:56:28 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:28 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:28 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:28 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:28 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:28 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:28 INFO mapred.Task: Task:attempt_local864601423_0001_m_003028_0 is done. And is in the process of commiting
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Bret-Harte___Excelsior.txt:0+2729
+16/04/01 09:56:28 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003028_0' done.
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003028_0
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003029_0
+16/04/01 09:56:28 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@74d90ea8
+16/04/01 09:56:28 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Story-of-Miss-Moppet.txt:0+1785
+16/04/01 09:56:28 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:28 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:28 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:28 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:28 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:28 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:28 INFO mapred.Task: Task:attempt_local864601423_0001_m_003029_0 is done. And is in the process of commiting
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/Beatrix-Potter___The-Story-of-Miss-Moppet.txt:0+1785
+16/04/01 09:56:28 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003029_0' done.
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003029_0
+16/04/01 09:56:28 INFO mapred.LocalJobRunner: Starting task: attempt_local864601423_0001_m_003030_0
+16/04/01 09:56:29 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@381afa37
+16/04/01 09:56:29 INFO mapred.MapTask: Processing split: hdfs://master:54310/user/hduser/word_input/big1.TXT:0+84
+16/04/01 09:56:29 INFO mapred.MapTask: numReduceTasks: 1
+16/04/01 09:56:29 INFO mapred.MapTask: io.sort.mb = 100
+16/04/01 09:56:29 INFO mapred.MapTask: data buffer = 79691776/99614720
+16/04/01 09:56:29 INFO mapred.MapTask: record buffer = 262144/327680
+16/04/01 09:56:29 INFO mapred.MapTask: Starting flush of map output
+16/04/01 09:56:29 INFO mapred.MapTask: Finished spill 0
+16/04/01 09:56:29 INFO mapred.Task: Task:attempt_local864601423_0001_m_003030_0 is done. And is in the process of commiting
+16/04/01 09:56:29 INFO mapred.LocalJobRunner: hdfs://master:54310/user/hduser/word_input/big1.TXT:0+84
+16/04/01 09:56:29 INFO mapred.Task: Task 'attempt_local864601423_0001_m_003030_0' done.
+16/04/01 09:56:29 INFO mapred.LocalJobRunner: Finishing task: attempt_local864601423_0001_m_003030_0
+16/04/01 09:56:29 INFO mapred.LocalJobRunner: Map task executor complete.
+16/04/01 09:56:29 INFO mapred.JobClient:  map 100% reduce 0%
+16/04/01 09:56:38 INFO mapred.Task:  Using ResourceCalculatorPlugin : org.apache.hadoop.util.LinuxResourceCalculatorPlugin@60e05354
+16/04/01 09:56:38 INFO mapred.LocalJobRunner: 
+16/04/01 09:56:38 INFO mapred.Merger: Merging 3031 sorted segments
+16/04/01 09:56:38 INFO mapred.Merger: Merging 7 intermediate segments out of a total of 3031
+16/04/01 09:56:38 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 3025
+16/04/01 09:56:38 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 3016
+16/04/01 09:56:38 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 3007
+16/04/01 09:56:38 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2998
+16/04/01 09:56:38 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2989
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2980
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2971
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2962
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2953
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2944
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2935
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2926
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2917
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2908
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2899
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2890
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2881
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2872
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2863
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2854
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2845
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2836
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2827
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2818
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2809
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2800
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2791
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2782
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2773
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2764
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2755
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2746
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2737
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2728
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2719
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2710
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2701
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2692
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2683
+16/04/01 09:56:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2674
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2665
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2656
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2647
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2638
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2629
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2620
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2611
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2602
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2593
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2584
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2575
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2566
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2557
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2548
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2539
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2530
+16/04/01 09:56:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2521
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2512
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2503
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2494
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2485
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2476
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2467
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2458
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2449
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2440
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2431
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2422
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2413
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2404
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2395
+16/04/01 09:56:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2386
+16/04/01 09:56:42 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2377
+16/04/01 09:56:42 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2368
+16/04/01 09:56:42 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2359
+16/04/01 09:56:42 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2350
+16/04/01 09:56:42 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2341
+16/04/01 09:56:42 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2332
+16/04/01 09:56:42 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2323
+16/04/01 09:56:42 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2314
+16/04/01 09:56:43 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2305
+16/04/01 09:56:43 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2296
+16/04/01 09:56:43 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2287
+16/04/01 09:56:43 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2278
+16/04/01 09:56:43 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2269
+16/04/01 09:56:43 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2260
+16/04/01 09:56:43 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2251
+16/04/01 09:56:43 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2242
+16/04/01 09:56:43 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2233
+16/04/01 09:56:43 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2224
+16/04/01 09:56:44 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2215
+16/04/01 09:56:44 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2206
+16/04/01 09:56:44 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2197
+16/04/01 09:56:44 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2188
+16/04/01 09:56:44 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2179
+16/04/01 09:56:44 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2170
+16/04/01 09:56:44 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:56:44 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2161
+16/04/01 09:56:45 INFO mapred.JobClient:  map 100% reduce 33%
+16/04/01 09:56:45 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2152
+16/04/01 09:56:45 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2143
+16/04/01 09:56:45 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2134
+16/04/01 09:56:46 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2125
+16/04/01 09:56:46 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2116
+16/04/01 09:56:46 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2107
+16/04/01 09:56:47 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2098
+16/04/01 09:56:47 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2089
+16/04/01 09:56:47 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2080
+16/04/01 09:56:47 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2071
+16/04/01 09:56:47 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:56:48 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2062
+16/04/01 09:56:50 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:56:52 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2053
+16/04/01 09:56:53 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:56:56 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2044
+16/04/01 09:56:56 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:56:57 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2035
+16/04/01 09:56:57 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2026
+16/04/01 09:56:58 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2017
+16/04/01 09:56:59 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 2008
+16/04/01 09:56:59 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1999
+16/04/01 09:56:59 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:02 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1990
+16/04/01 09:57:02 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1981
+16/04/01 09:57:02 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:03 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1972
+16/04/01 09:57:04 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1963
+16/04/01 09:57:04 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1954
+16/04/01 09:57:05 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1945
+16/04/01 09:57:05 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1936
+16/04/01 09:57:05 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:05 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1927
+16/04/01 09:57:06 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1918
+16/04/01 09:57:06 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1909
+16/04/01 09:57:06 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1900
+16/04/01 09:57:07 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1891
+16/04/01 09:57:07 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1882
+16/04/01 09:57:07 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1873
+16/04/01 09:57:08 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:08 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1864
+16/04/01 09:57:09 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1855
+16/04/01 09:57:09 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1846
+16/04/01 09:57:09 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1837
+16/04/01 09:57:10 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1828
+16/04/01 09:57:10 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1819
+16/04/01 09:57:11 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1810
+16/04/01 09:57:11 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1801
+16/04/01 09:57:11 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:12 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1792
+16/04/01 09:57:12 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1783
+16/04/01 09:57:12 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1774
+16/04/01 09:57:13 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1765
+16/04/01 09:57:13 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1756
+16/04/01 09:57:14 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1747
+16/04/01 09:57:14 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1738
+16/04/01 09:57:14 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1729
+16/04/01 09:57:14 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:15 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1720
+16/04/01 09:57:15 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1711
+16/04/01 09:57:15 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1702
+16/04/01 09:57:16 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1693
+16/04/01 09:57:16 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1684
+16/04/01 09:57:17 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1675
+16/04/01 09:57:17 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1666
+16/04/01 09:57:17 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:17 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1657
+16/04/01 09:57:18 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1648
+16/04/01 09:57:18 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1639
+16/04/01 09:57:19 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1630
+16/04/01 09:57:19 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1621
+16/04/01 09:57:20 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1612
+16/04/01 09:57:20 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1603
+16/04/01 09:57:20 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:21 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1594
+16/04/01 09:57:21 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1585
+16/04/01 09:57:22 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1576
+16/04/01 09:57:22 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1567
+16/04/01 09:57:23 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1558
+16/04/01 09:57:23 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:24 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1549
+16/04/01 09:57:25 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1540
+16/04/01 09:57:25 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1531
+16/04/01 09:57:26 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1522
+16/04/01 09:57:26 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1513
+16/04/01 09:57:26 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:26 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1504
+16/04/01 09:57:27 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1495
+16/04/01 09:57:28 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1486
+16/04/01 09:57:28 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1477
+16/04/01 09:57:29 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1468
+16/04/01 09:57:29 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:30 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1459
+16/04/01 09:57:30 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1450
+16/04/01 09:57:31 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1441
+16/04/01 09:57:31 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1432
+16/04/01 09:57:32 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1423
+16/04/01 09:57:32 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:33 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1414
+16/04/01 09:57:33 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1405
+16/04/01 09:57:34 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1396
+16/04/01 09:57:35 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1387
+16/04/01 09:57:35 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:36 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1378
+16/04/01 09:57:37 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1369
+16/04/01 09:57:38 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1360
+16/04/01 09:57:38 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1351
+16/04/01 09:57:38 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1342
+16/04/01 09:57:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1333
+16/04/01 09:57:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1324
+16/04/01 09:57:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1315
+16/04/01 09:57:41 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:42 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1306
+16/04/01 09:57:42 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1297
+16/04/01 09:57:43 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1288
+16/04/01 09:57:44 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1279
+16/04/01 09:57:44 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:45 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1270
+16/04/01 09:57:45 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1261
+16/04/01 09:57:46 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1252
+16/04/01 09:57:47 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1243
+16/04/01 09:57:47 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1234
+16/04/01 09:57:47 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:48 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1225
+16/04/01 09:57:49 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1216
+16/04/01 09:57:50 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1207
+16/04/01 09:57:50 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:51 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1198
+16/04/01 09:57:52 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1189
+16/04/01 09:57:53 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:54 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1180
+16/04/01 09:57:55 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1171
+16/04/01 09:57:56 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1162
+16/04/01 09:57:56 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1153
+16/04/01 09:57:56 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:57:57 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1144
+16/04/01 09:57:58 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1135
+16/04/01 09:57:59 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1126
+16/04/01 09:57:59 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:00 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1117
+16/04/01 09:58:00 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1108
+16/04/01 09:58:01 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1099
+16/04/01 09:58:02 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1090
+16/04/01 09:58:02 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:02 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1081
+16/04/01 09:58:04 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1072
+16/04/01 09:58:05 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1063
+16/04/01 09:58:05 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:06 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1054
+16/04/01 09:58:07 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1045
+16/04/01 09:58:08 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1036
+16/04/01 09:58:08 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:09 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1027
+16/04/01 09:58:10 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1018
+16/04/01 09:58:10 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1009
+16/04/01 09:58:11 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:12 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 1000
+16/04/01 09:58:13 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 991
+16/04/01 09:58:14 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:15 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 982
+16/04/01 09:58:15 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 973
+16/04/01 09:58:16 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 964
+16/04/01 09:58:17 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 955
+16/04/01 09:58:17 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:18 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 946
+16/04/01 09:58:20 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 937
+16/04/01 09:58:20 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 928
+16/04/01 09:58:20 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:21 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 919
+16/04/01 09:58:23 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 910
+16/04/01 09:58:23 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:25 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 901
+16/04/01 09:58:26 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:27 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 892
+16/04/01 09:58:27 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 883
+16/04/01 09:58:29 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:29 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 874
+16/04/01 09:58:30 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 865
+16/04/01 09:58:31 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 856
+16/04/01 09:58:32 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 847
+16/04/01 09:58:32 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:34 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 838
+16/04/01 09:58:35 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:36 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 829
+16/04/01 09:58:37 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 820
+16/04/01 09:58:38 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 811
+16/04/01 09:58:38 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 802
+16/04/01 09:58:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 793
+16/04/01 09:58:41 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 784
+16/04/01 09:58:41 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:42 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 775
+16/04/01 09:58:43 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 766
+16/04/01 09:58:44 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 757
+16/04/01 09:58:44 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:45 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 748
+16/04/01 09:58:46 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 739
+16/04/01 09:58:47 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 730
+16/04/01 09:58:47 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:48 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 721
+16/04/01 09:58:50 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 712
+16/04/01 09:58:50 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:51 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 703
+16/04/01 09:58:52 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 694
+16/04/01 09:58:53 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 685
+16/04/01 09:58:53 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:54 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 676
+16/04/01 09:58:55 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 667
+16/04/01 09:58:56 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 658
+16/04/01 09:58:56 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:57 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 649
+16/04/01 09:58:58 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 640
+16/04/01 09:58:59 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:58:59 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 631
+16/04/01 09:59:01 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 622
+16/04/01 09:59:02 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 613
+16/04/01 09:59:02 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:04 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 604
+16/04/01 09:59:05 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:06 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 595
+16/04/01 09:59:07 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 586
+16/04/01 09:59:08 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:09 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 577
+16/04/01 09:59:11 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 568
+16/04/01 09:59:11 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:13 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 559
+16/04/01 09:59:14 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 550
+16/04/01 09:59:14 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:16 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 541
+16/04/01 09:59:17 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 532
+16/04/01 09:59:17 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:18 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 523
+16/04/01 09:59:20 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 514
+16/04/01 09:59:20 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:21 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 505
+16/04/01 09:59:23 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 496
+16/04/01 09:59:23 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:24 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 487
+16/04/01 09:59:26 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 478
+16/04/01 09:59:26 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:27 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 469
+16/04/01 09:59:29 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 460
+16/04/01 09:59:29 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:31 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 451
+16/04/01 09:59:32 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:33 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 442
+16/04/01 09:59:35 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:35 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 433
+16/04/01 09:59:37 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 424
+16/04/01 09:59:38 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 415
+16/04/01 09:59:41 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:42 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 406
+16/04/01 09:59:44 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 397
+16/04/01 09:59:44 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:47 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 388
+16/04/01 09:59:47 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:49 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 379
+16/04/01 09:59:50 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:53 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 370
+16/04/01 09:59:53 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:56 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 361
+16/04/01 09:59:56 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 09:59:58 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 352
+16/04/01 09:59:59 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:01 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 343
+16/04/01 10:00:02 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:03 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 334
+16/04/01 10:00:05 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:06 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 325
+16/04/01 10:00:08 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 316
+16/04/01 10:00:08 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:09 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 307
+16/04/01 10:00:11 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 298
+16/04/01 10:00:11 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:14 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 289
+16/04/01 10:00:14 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:16 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 280
+16/04/01 10:00:17 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:19 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 271
+16/04/01 10:00:20 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:22 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 262
+16/04/01 10:00:23 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:25 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 253
+16/04/01 10:00:26 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:28 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 244
+16/04/01 10:00:29 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:32 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 235
+16/04/01 10:00:32 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:35 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:38 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:39 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 226
+16/04/01 10:00:41 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:43 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 217
+16/04/01 10:00:44 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:47 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 208
+16/04/01 10:00:47 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:50 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 199
+16/04/01 10:00:50 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:53 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:55 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 190
+16/04/01 10:00:56 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:00:59 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:00 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 181
+16/04/01 10:01:02 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:04 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 172
+16/04/01 10:01:05 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:08 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:09 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 163
+16/04/01 10:01:11 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:14 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:14 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 154
+16/04/01 10:01:17 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:20 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:21 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 145
+16/04/01 10:01:23 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:26 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 136
+16/04/01 10:01:26 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:29 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:32 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:33 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 127
+16/04/01 10:01:35 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:38 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:40 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 118
+16/04/01 10:01:41 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:44 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:47 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 109
+16/04/01 10:01:47 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:50 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:53 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:54 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 100
+16/04/01 10:01:56 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:01:59 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:02 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 91
+16/04/01 10:02:02 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:05 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:08 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:11 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 82
+16/04/01 10:02:11 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:14 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:17 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:20 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:21 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 73
+16/04/01 10:02:23 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:26 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:29 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:31 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 64
+16/04/01 10:02:32 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:35 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:38 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:41 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:42 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 55
+16/04/01 10:02:44 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:47 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:50 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:53 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:56 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:02:57 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 46
+16/04/01 10:02:59 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:02 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:05 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:08 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:11 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:14 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:17 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 37
+16/04/01 10:03:17 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:20 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:23 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:26 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:29 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:32 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:35 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:38 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:41 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:44 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:47 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:48 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 28
+16/04/01 10:03:50 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:53 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:56 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:03:59 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:02 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:05 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:08 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:11 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:14 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:17 INFO mapred.Merger: Merging 10 intermediate segments out of a total of 19
+16/04/01 10:04:17 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:20 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:23 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:26 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:29 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:32 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:35 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:38 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:41 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:44 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:47 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:50 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:53 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:56 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:04:59 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:05:02 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:05:05 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:05:08 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:05:11 INFO mapred.Merger: Down to the last merge-pass, with 10 segments left of total size: 2433840708 bytes
+16/04/01 10:05:12 INFO mapred.LocalJobRunner: reduce > sort
+16/04/01 10:05:12 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:05:13 INFO mapred.JobClient:  map 100% reduce 66%
+16/04/01 10:05:15 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:05:34 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:05:40 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:05:40 INFO mapred.JobClient:  map 100% reduce 67%
+16/04/01 10:05:43 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:05:46 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:05:49 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:05:52 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:05:55 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:05:58 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:01 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:01 INFO mapred.JobClient:  map 100% reduce 68%
+16/04/01 10:06:04 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:07 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:10 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:11 INFO mapred.JobClient:  map 100% reduce 69%
+16/04/01 10:06:13 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:16 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:17 INFO mapred.JobClient:  map 100% reduce 70%
+16/04/01 10:06:19 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:20 INFO mapred.JobClient:  map 100% reduce 71%
+16/04/01 10:06:22 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:23 INFO mapred.JobClient:  map 100% reduce 72%
+16/04/01 10:06:25 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:26 INFO mapred.JobClient:  map 100% reduce 73%
+16/04/01 10:06:28 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:29 INFO mapred.JobClient:  map 100% reduce 74%
+16/04/01 10:06:31 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:32 INFO mapred.JobClient:  map 100% reduce 75%
+16/04/01 10:06:34 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:35 INFO mapred.JobClient:  map 100% reduce 76%
+16/04/01 10:06:37 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:38 INFO mapred.JobClient:  map 100% reduce 77%
+16/04/01 10:06:40 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:41 INFO mapred.JobClient:  map 100% reduce 78%
+16/04/01 10:06:43 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:44 INFO mapred.JobClient:  map 100% reduce 79%
+16/04/01 10:06:46 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:47 INFO mapred.JobClient:  map 100% reduce 80%
+16/04/01 10:06:49 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:50 INFO mapred.JobClient:  map 100% reduce 81%
+16/04/01 10:06:52 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:53 INFO mapred.JobClient:  map 100% reduce 82%
+16/04/01 10:06:55 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:57 INFO mapred.JobClient:  map 100% reduce 83%
+16/04/01 10:06:58 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:06:59 INFO mapred.JobClient:  map 100% reduce 84%
+16/04/01 10:07:01 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:02 INFO mapred.JobClient:  map 100% reduce 85%
+16/04/01 10:07:04 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:05 INFO mapred.JobClient:  map 100% reduce 86%
+16/04/01 10:07:07 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:08 INFO mapred.JobClient:  map 100% reduce 87%
+16/04/01 10:07:10 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:11 INFO mapred.JobClient:  map 100% reduce 88%
+16/04/01 10:07:13 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:14 INFO mapred.JobClient:  map 100% reduce 89%
+16/04/01 10:07:16 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:17 INFO mapred.JobClient:  map 100% reduce 90%
+16/04/01 10:07:19 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:20 INFO mapred.JobClient:  map 100% reduce 91%
+16/04/01 10:07:22 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:23 INFO mapred.JobClient:  map 100% reduce 92%
+16/04/01 10:07:25 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:26 INFO mapred.JobClient:  map 100% reduce 93%
+16/04/01 10:07:28 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:29 INFO mapred.JobClient:  map 100% reduce 95%
+16/04/01 10:07:31 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:32 INFO mapred.JobClient:  map 100% reduce 96%
+16/04/01 10:07:34 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:35 INFO mapred.JobClient:  map 100% reduce 97%
+16/04/01 10:07:37 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:38 INFO mapred.JobClient:  map 100% reduce 98%
+16/04/01 10:07:40 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:41 INFO mapred.JobClient:  map 100% reduce 99%
+16/04/01 10:07:41 INFO mapred.Task: Task:attempt_local864601423_0001_r_000000_0 is done. And is in the process of commiting
+16/04/01 10:07:41 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:41 INFO mapred.Task: Task attempt_local864601423_0001_r_000000_0 is allowed to commit now
+16/04/01 10:07:42 INFO mapred.FileOutputCommitter: Saved output of task 'attempt_local864601423_0001_r_000000_0' to hdfs://master:54310/user/hduser/word_output
+16/04/01 10:07:42 INFO mapred.LocalJobRunner: reduce > reduce
+16/04/01 10:07:42 INFO mapred.Task: Task 'attempt_local864601423_0001_r_000000_0' done.
+16/04/01 10:07:42 INFO mapred.JobClient:  map 100% reduce 100%
+16/04/01 10:07:55 INFO mapred.JobClient: Job complete: job_local864601423_0001
+16/04/01 10:07:58 INFO mapred.JobClient: Counters: 23
+16/04/01 10:07:58 INFO mapred.JobClient:   Map-Reduce Framework
+16/04/01 10:07:58 INFO mapred.JobClient:     Spilled Records=949509332
+16/04/01 10:07:58 INFO mapred.JobClient:     Map output materialized bytes=2433858874
+16/04/01 10:07:58 INFO mapred.JobClient:     Reduce input records=210345696
+16/04/01 10:07:58 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=0
+16/04/01 10:07:58 INFO mapred.JobClient:     Map input records=23711233
+16/04/01 10:07:58 INFO mapred.JobClient:     SPLIT_RAW_BYTES=435740
+16/04/01 10:07:58 INFO mapred.JobClient:     Map output bytes=2013149265
+16/04/01 10:07:58 INFO mapred.JobClient:     Reduce shuffle bytes=0
+16/04/01 10:07:58 INFO mapred.JobClient:     Physical memory (bytes) snapshot=0
+16/04/01 10:07:58 INFO mapred.JobClient:     Map input bytes=1208520802
+16/04/01 10:07:58 INFO mapred.JobClient:     Reduce input groups=2932708
+16/04/01 10:07:58 INFO mapred.JobClient:     Combine output records=0
+16/04/01 10:07:58 INFO mapred.JobClient:     Reduce output records=2932708
+16/04/01 10:07:58 INFO mapred.JobClient:     Map output records=210345696
+16/04/01 10:07:58 INFO mapred.JobClient:     Combine input records=0
+16/04/01 10:07:58 INFO mapred.JobClient:     CPU time spent (ms)=0
+16/04/01 10:07:58 INFO mapred.JobClient:     Total committed heap usage (bytes)=9276780183552
+16/04/01 10:07:58 INFO mapred.JobClient:   File Input Format Counters 
+16/04/01 10:07:58 INFO mapred.JobClient:     Bytes Read=1208520802
+16/04/01 10:07:58 INFO mapred.JobClient:   FileSystemCounters
+16/04/01 10:07:58 INFO mapred.JobClient:     HDFS_BYTES_READ=2675217888262
+16/04/01 10:07:58 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=6012805822327
+16/04/01 10:07:58 INFO mapred.JobClient:     FILE_BYTES_READ=661202786162
+16/04/01 10:07:58 INFO mapred.JobClient:     HDFS_BYTES_WRITTEN=38591586
+16/04/01 10:07:58 INFO mapred.JobClient:   File Output Format Counters 
+16/04/01 10:07:58 INFO mapred.JobClient:     Bytes Written=38591586
+
